@@ -1,4 +1,4 @@
-# Desining the code in Verilog And TB in SV
+# Design the code in Verilog And TB in SV
 Vishal Kumar Pandey
 
 Design and Verification 
