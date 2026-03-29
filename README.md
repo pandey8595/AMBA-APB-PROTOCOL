@@ -51,9 +51,13 @@ An AMBA is having backbone bus AMBA AHB or AMBA ASB. It sustains external memory
 Five interfaces are defined within the AMBA specification:
 
 a)Advanced system bus (ASB)
+
 b)Advanced peripheral bus (APB)
+
 c)Advanced high-performance bus (AHB)
+
 d)Advanced extensible interface (AXI)
+
 e)Advanced trace bus (ATB)
 
 *AHB VS APB*
